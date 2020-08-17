@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="transation_annotation" />
+        <module name="aop_annotation_around" />
+        <module name="transaction_xml" />
+        <module name="base_on_xml" />
+        <module name="aop_xml" />
+        <module name="base_on_annotation_without_xml" />
+        <module name="base_on_xml_DI" />
+        <module name="aop_xml_around" />
+        <module name="proxy" />
+        <module name="aop_annotation" />
+        <module name="base_on_annotation" />
+        <module name="base_on_xml_crud" />
+        <module name="jdbcTemplate" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
